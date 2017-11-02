@@ -1,0 +1,4 @@
+*.bbinternet
+*.json
+
+tests/
